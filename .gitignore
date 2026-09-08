@@ -1,0 +1,4 @@
+node_modules/
+.env
+test-files/dest-streams.txt
+test-files/dest-pipe.txt

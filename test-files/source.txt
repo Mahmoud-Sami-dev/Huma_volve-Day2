@@ -1,0 +1,5 @@
+This is a sample source file used to test Node.js Streams.
+Task 11 copies this file chunk by chunk using readable/writable streams.
+Task 12 copies this same file using .pipe().
+After both copies run, the destination files should contain
+exactly this same text, proving the copy worked correctly.
